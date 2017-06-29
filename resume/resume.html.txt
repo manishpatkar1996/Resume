@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+		<title></title>
+	</head>
+	<body>
+	    <div id="header">
+	          <h1>Manish Patkar</h1>
+	          <p class="mail">E-mail: manishpatkar1996@gmail.com</p>
+	           <p class="mail">Contact: 9611048570</p>
+	          
+	      
+	    </div>
+	      
+	    <div id="seek">
+	      <p id="make">Objective:Seeking challenging entry level assignments in the software field </p>
+	          
+	    </div>
+	    <div class="left">
+	      <h2 style="font-size:50px">Academics</h2>
+	         <ol>
+	             <li>College: National institute of technology Karnataka,Surathkal
+	         <ul>
+	             <li>CGPA:7.40/10(after 6 Sems)</li>
+	         </ul>
+	         
+	             </li>
+	         
+	             <li>Pre-University: Manipal Pre-University college, Manipal
+	         <ul>
+	             <li>Boards:93%</li>
+	         </ul>
+	         
+	              </li>
+	         
+	              <li>School: Dr. Nitte Shankara Adiyantaya Memorial High Shool, Nitte
+	         <ul>
+	             <li>CGPA:10/10</li>
+	         </ul>
+	         
+	              </li>
+	         
+	        </ol>
+	        
+	        <h2 style="margin-bottom:-10px">Skills</h2>
+	           <ul>
+	               <li> C/C++ Programming</li>
+	               <li>Java</li>
+	               <li>HTML/CSS</li>
+	               <li>Android Development</li>
+	               <li>Matlab</li>
+	               <li>VHDL,Magic</li>
+	           
+	           
+	           </ul>
+	           
+	           
+	      
+	      
+	      
+	    </div>
+	      
+	    <div class="right">
+	    
+	         <h2>Projects</h2>
+	           <ul>
+	           <li><h3>Ultrasonic Sensors</h3>
+	              <p style="font-size:20px">This project aims at the use of Ultrasonic Sensor connected to the Arduino board. The system uses an ultrasonic sensor that has a transmitter part and a receiver part. Ultrasonic sensors generate high-frequency sound waves and evaluate the echo which is received back by the sensor</p>
+	              </li>
+	              
+	             <li><h3>Simple Real-Time Human Detection using a Single Correlation Filter</h3>
+	              <p style="font-size:20px">Using Machine-learning to detect number of faces using SVD and other filtersderived using correlation filters.</p>
+	              </li> 
+	              
+	              <li><h3>SECURED Home automation Using ESP8266</h3>
+	              <p style="font-size:20px">SECURED Home automation Using ESP8266(on-going) :The aim of our project is to control all electronic appliances from a central control point in a secured way taking into consideration a household scenario.</p>
+	              </li> 
+	              
+	           </ul>
+	           
+	           <h2>Extra-curricular activities/others</h2>
+	              <ul style="font-size:20px">
+	                  <li>Class Representative of Electronics and Communication for past two years. </li>
+	                  <li>Active member of NITK Student's Council.</li>
+	                  <li>Executive member, Incident Marketing and Publicity.</li>
+	                  <li>Executive member , Films Club</li>
+	                  
+	              
+	              
+	               </ul>
+	           
+	    
+	    </div>
+	    <div id="footer"></div>
+	
+	
+	</body>
+</html>
+                                                         
+
+
+	
+ 
